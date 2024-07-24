@@ -22,4 +22,4 @@ The file `RT8_cascade_anonymised.csv` contains three columns:
 The file `RT8_tweet_ID.csv` contains a single column with the tweet IDs gathered for the study, which allows for the original tweets to be gathered using the Twitter API.
 
 ## Reference
-<sup>[1]</sup> Nielsen FÅ. A new ANEW: Evaluation of a word list for sentiment analysis in microblogs. arXiv preprint arXiv:11032903. 2011.
+[1] Nielsen FÅ. A new ANEW: Evaluation of a word list for sentiment analysis in microblogs. arXiv preprint arXiv:11032903. 2011.
