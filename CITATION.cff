@@ -1,9 +1,15 @@
 cff-version: 1.1
 message: "If you use this data, please cite it as below."
 authors:
-  - family-names: Pena, MacCarron
-    given-names: Caroline, Padraig
-    orcid: https://orcid.org/0009-0007-2329-8638
+  - family-names: Pena
+    given-names: Caroline
+    orcid: "https://orcid.org/0009-0007-2329-8638"
+- family-names: MacCarron
+  given-names: Padraig
+  orcid: "https://orcid.org/0000-0002-5163-9264"
+- family-names: J.P. O'Sullivan
+  given-names: David
+  orcid: "https://orcid.org/0000-0002-4754-3614"
 title: "Twitter data on the Irish Abortion Referendum of 2018"
-url: https://github.com/caroline-pena/Repeal_the_8th_data
+url: "https://github.com/caroline-pena/Repeal_the_8th_data"
 date-released: 2024-08-02
