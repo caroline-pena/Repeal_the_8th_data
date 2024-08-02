@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "If you use this data, please cite it as below."
+authors:
+  - family-names: Pena
+    given-names: Caroline
+    orcid: https://orcid.org/0009-0007-2329-8638
+title: "Twitter data on the Irish Abortion Referendum of 2018"
+version: 2.0.4
+date-released: 2024-08-02
