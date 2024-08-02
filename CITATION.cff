@@ -1,4 +1,4 @@
-cff-version: 1.1
+cff-version: 1.1.1
 message: "If you use this data, please cite it as below."
 authors:
   - family-names: "Pena"
@@ -11,5 +11,6 @@ authors:
     given-names: "David"
     orcid: "https://orcid.org/0000-0002-4754-3614"
 title: "Twitter data on the Irish Abortion Referendum of 2018"
+version: 2.0.1
 url: "https://github.com/caroline-pena/Repeal_the_8th_data"
 date-released: 2024-08-02
