@@ -1,5 +1,5 @@
 # Finding Polarised Communities and Tracking Information Diffusion on Twitter: A Network Approach on the Irish Abortion Referendum
-This repository contains the files used in the analysis for the paper Finding Polarised Communities and Tracking Information Diffusion on Twitter: A Network Approach on the Irish Abortion Referendum. An arXiv preprint can be found [here](https://arxiv.org/abs/2311.09196).
+This repository contains the data files used in the analysis for the paper Finding Polarised Communities and Tracking Information Diffusion on Twitter: A Network Approach on the Irish Abortion Referendum. The paper is published in the [Royal Society Open Science](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240454).
 
 ## File description
 The file `RT8_mentions_anonymised.csv` contains every mention in the full dataset.
