@@ -17,7 +17,7 @@ The file `RT8_mentions_anonymised.csv` contains three columns:
 - `sentiment`: the sentiment score of the text in the tweet obtained with AFINN<sup>[1]</sup>.
 
 The file `RT8_communities_anonymised.csv` contains two columns:
-- `user`: a user (pseudo-anonymised) in the mutual mentions network, as described in the [paper](https://arxiv.org/abs/2311.09196). The user IDs here match the ones in `RT8_mentions_anonymised.csv`.
+- `user`: a user (pseudo-anonymised) in the mutual mentions network, as described in the [paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240454). The user IDs here match the ones in `RT8_mentions_anonymised.csv`.
 - `membership`: the user's community membership obtained with the weighted Louvain<sup>[2]</sup> algorithm.
 
 The file `RT8_cascade_anonymised.csv` contains three columns:
